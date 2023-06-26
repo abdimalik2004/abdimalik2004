@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/@abdimalikmahad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abdimalikmahad1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdimalik abdirahman](https://www.linkedin.com/in/abdimalik-abdirahman-544444251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdimalik abdirahman" height="30" width="40" /></a>
-<a href="https://fb.com/abdimalik abdirahman mohamed](https://www.facebook.com/abdimalik.abdirahman21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdimalik abdirahman mohamed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdimalik.abdirahman21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdimalik abdirahman mohamed" height="30" width="40" /></a>
 <a href="https://instagram.com/abdimalikmahadalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdimalikmahadalle" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ubadkoriye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ubadkoriye" height="30" width="40" /></a>
 </p>
