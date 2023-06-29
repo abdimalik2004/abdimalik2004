@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Somalia</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f6ceef6182b0f307f57a53dce6d6f1e5821019109609bbcdf4b776e912949503/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdimalik2004&label=Profile%20views&color=0e75b6&style=flat" alt="abdimalik2004" /> </p>
-<p align="left"> <a href="https://twitter.com/@abdimalikmahad1" target="blank"><img src="https://img.shields.io/twitter/follow/@abdimalikmahad1?logo=twitter&style=for-the-badge" alt="@abdimalikmahad1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@abdimalikmahad1" target="blank"><img src="https://img.shields.io/twitter/follow/@abdimalikmahad1?logo=twitter&style=for-the-badge" alt="abdimalikmahad1" /></a> </p>
 
 - 🌱 I’m currently learning *javascript & c++*
 
